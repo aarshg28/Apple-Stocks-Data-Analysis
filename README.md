@@ -6,3 +6,12 @@ We answer the following end user based questions with the help of our organizati
 3.	What is the change in the volume traded over time?
 4.	How much of our capital is at risk when we invest in a certain stock?
 5.	How can we forecast future stock performance? 
+
+Overview: 
+•Orchestrated ETL of Apple stock data using pandas and Dataprep, ensuring accurate data and seamless integration with
+BigQuery.
+•Employed SQL queries and Python libraries, achieving a 99% prediction accuracy with key metrics such as RMS (0.05), R-
+squared (0.98), and MAE (0.02) through BigQuery.
+•Executed Linear Regression modeling, validating the model's robustness with an Explained Variance Score of 0.95.
+•Leveraged Google Data Studio to craft insightful visualizations, showcasing expertise in stock behavior, daily returns, and
+volume trends.
